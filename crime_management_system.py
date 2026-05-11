@@ -1,3 +1,10 @@
+# ═══════════════════════════════════════════════════
+#  Crime Management System
+#  Author  : Tanishk Tomar
+#  GitHub  : https://github.com/tanishktomar004/crime-management-system
+#  Tech    : Python 3 | SQLite3 | Tkinter
+#  Version : 1.0 | 2025
+# ═══════════════════════════════════════════════════
 import tkinter as tk
 from tkinter import ttk, messagebox, font
 import sqlite3
