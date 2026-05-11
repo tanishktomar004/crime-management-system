@@ -1,0 +1,4 @@
+crime_management.db
+.venv/
+__pycache__/
+*.pyc

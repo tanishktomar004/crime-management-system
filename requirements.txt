@@ -1,0 +1,16 @@
+# Crime Management System - Requirements
+# All modules below are part of Python's Standard Library.
+# No pip install is needed.
+
+# tkinter   - GUI (included with Python on Windows/Mac; install separately on Linux)
+# sqlite3   - Database (built into Python)
+# datetime  - Date/time utilities (built into Python)
+# re        - Regular expressions (built into Python)
+
+# -------------------------------------------------------
+# Python Version Required: 3.7+
+# -------------------------------------------------------
+
+# If tkinter is missing on Linux, run:
+#   sudo apt install python3-tk       (Ubuntu/Debian)
+#   sudo dnf install python3-tkinter  (Fedora)
